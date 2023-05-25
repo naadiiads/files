@@ -1,0 +1,40 @@
+body {
+    background-color: #E0FFFF;
+
+}
+
+h1 {
+    padding: 10px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+nav {
+    justify-content: space-between;
+    display: flex;
+}
+
+.data a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 20px;
+}
+
+.data li {
+    list-style: none;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+tr {
+    background-color: white;
+}
